@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50084382-39A1-4CA4-9891-750908698D16}</ProjectGuid>
+    <ProjectGuid>{F0559B38-B7AE-45CC-8BE9-B4723C0332E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lista2_AED</RootNamespace>
-    <AssemblyName>Lista2_AED</AssemblyName>
+    <RootNamespace>Questão_2</RootNamespace>
+    <AssemblyName>Questão 2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Q1.cs" />
+    <Compile Include="Q2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
