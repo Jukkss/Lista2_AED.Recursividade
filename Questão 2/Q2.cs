@@ -1,4 +1,4 @@
-﻿/* Lista2_AED - Questão1 - João Victor Soares Souza */
+﻿/* Lista2_AED - Questão2 - João Victor Soares Souza */
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,7 +21,7 @@ namespace Questão_2
         }
         static void Main(string[] args)
         {
-            SomaIntervalos(3, 9);
+            SomaIntervalos(3, 6);
         }
     }
 }
